@@ -14,3 +14,15 @@ https://drive.google.com/file/d/1qyYnXVM476xU2tuveqlgoTLRW6DDhe73/view?usp=shari
 
 link to the face verification model weights after training using VGG: 
 https://drive.google.com/file/d/1i0bVp_krKzwXRbL-vFNvMOKrcKQ-mqeQ/view?usp=sharing
+
+
+
+NTI Final Project
+Team:
+Dalia Abdelkader
+daliaabdelkader1411@gmail.com
+Fatma Saber
+f.saberbaraka@gmail.com
+Sondos Khaled
+sondoskhaled118@gmail.com
+
