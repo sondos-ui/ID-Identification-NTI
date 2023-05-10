@@ -10,6 +10,7 @@ https://drive.google.com/file/d/1miinc4qy6EcjMEwdq2OyfFuwLSJtsTfG/view?usp=shari
 
 
 link to the best weights after training yoloV7 on our custom data:
-
+https://drive.google.com/file/d/1qyYnXVM476xU2tuveqlgoTLRW6DDhe73/view?usp=sharing
 
 link to the face verification model weights after training using VGG: 
+https://drive.google.com/file/d/1i0bVp_krKzwXRbL-vFNvMOKrcKQ-mqeQ/view?usp=sharing
